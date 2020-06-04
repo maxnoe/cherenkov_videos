@@ -10,6 +10,4 @@ This information is visualized in the different color channels, red for Cherenko
 The input files are huge (several GB for the single event) and thus not included here.
 I can provide them on request.
 
-Video on youtube here:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kh8aYKp9e8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video on youtube here: <https://youtu.be/Kh8aYKp9e8c>
